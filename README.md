@@ -58,9 +58,9 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
            Cap 3 - Classe, métodos, atributos  
 1 - CLASSES E ATRIBUTOS
                                                                                                                                                   
-2 - CLASSE    
+2 - CLASSE 
                                                                                                                                                   
-                                                                                                                                                  
+3 - ATRIBUTOS                                                                                                                                                  
                                                                                                                                                   
 ##           
            Cap 4 - Herança
