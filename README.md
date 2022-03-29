@@ -61,7 +61,8 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 2 - CLASSE 
                                                                                                                                                   
 3 - ATRIBUTOS                                                                                                                                                  
-                                                                                                                                                  
+
+4 - MÉTODOS                                                                                                                                                  
 ##           
            Cap 4 - Herança
 ##
