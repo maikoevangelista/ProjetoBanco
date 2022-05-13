@@ -66,7 +66,9 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
                                                                                                                                                   
 5 - SOBRECARGA DE MÉTODOS     
 
-6 - CONSTRUTORES                                                                                                                                                  
+6 - CONSTRUTORES 
+                                                                                                                                                  
+7 - TRABALHANDO COM OBJETOS                                                                                                                                                  
 ##           
            Cap 4 - Herança
 ##
