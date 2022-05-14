@@ -68,7 +68,7 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 
 6 - CONSTRUTORES 
                                                                                                                                                   
-7 - TRABALHANDO COM OBJETOS                                                                                                                                                  
+                                                                                                                                               
 ##           
            Cap 4 - Herança
 ##
